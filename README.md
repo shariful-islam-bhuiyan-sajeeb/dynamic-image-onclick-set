@@ -1,3 +1,7 @@
+# project link : https://dynamic-img-onclick-change.netlify.app/
+
+dynamic vabe img ki add koraa, img modde mouse nile sathe sathe img change hoye jabe, j imager modde mause nibo setai
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
